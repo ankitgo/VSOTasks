@@ -22,4 +22,4 @@ You can alternatively use basic auth by passing ```--authType basic``` (read [Co
 ```
 > tfx build tasks upload ./
 ```
-7. Once the task is uploaded, you would be able to view this task under **Utility** section of tasks 
+* Once the task is uploaded, you would be able to view this task under **Utility** section of tasks 
