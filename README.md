@@ -5,6 +5,7 @@ Follow the below steps to upload this task to your account:
 * Download the [zip file](https://github.com/UCrypton/VSOTasks/archive/master.zip).
 * Extract the zip file
 * Open command prompt and navigate to the folder: **Tokenizer\x.x.x** where x.x.x is the version number for the task.
+* [Install node js and npm](https://docs.npmjs.com/getting-started/installing-node) if it is not present
 * Install ```tfx-cli``` utility
 ```
 > npm install -g tfx-cli
